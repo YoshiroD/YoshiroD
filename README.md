@@ -2,9 +2,11 @@
 
 # Olá, eu sou o SrPoggers 👋
 
-### Interfaces claras. Dados com contexto.
+### Python & Desenvolvimento Full Stack
 
-Desenvolvendo projetos web que conectam uma boa experiência visual aos dados da aplicação.
+Técnico em Desenvolvimento de Sistemas e estudante de Análise e Desenvolvimento de Sistemas.
+
+Meu foco é Python e desenvolvimento full stack, conectando interfaces, aplicações e dados.
 
 [![GitHub](https://img.shields.io/badge/GitHub-YoshiroD-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YoshiroD)
 [![Projeto em destaque](https://img.shields.io/badge/Projeto-Flood_Fusion_SP-237966?style=flat-square)](https://github.com/yanpefnsc/flood-fusion-sp)
@@ -15,7 +17,10 @@ Desenvolvendo projetos web que conectam uma boa experiência visual aos dados da
 
 ### 👨‍💻 Sobre mim
 
-- 🛠️ Minha contribuição mais recente reúne **front-end e integração de dados**.
+- 🎓 **Técnico em Desenvolvimento de Sistemas**.
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 🐍 **Python** é minha linguagem de foco.
+- 💻 Meu foco de desenvolvimento é **full stack**.
 - 🧩 No **Flood Fusion SP**, contribuí com um painel para explorar registros de alagamento em São Paulo.
 - 🤝 Essa entrega inclui testes, documentação e um roteiro de revisão para a equipe.
 - 🔎 Aqui compartilho projetos, contribuições e o que venho construindo na prática.
