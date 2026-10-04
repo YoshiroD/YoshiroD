@@ -2,7 +2,8 @@
 
 Systems Development Technician and Systems Analysis and Development student, focused on Python and full-stack development.
 
-- 📚 Studying Systems Analysis and Development
+- 🎓 Completed a technical program in **Systems Development**
+- 📚 Currently studying **Systems Analysis and Development**
 - 🐍 Main programming focus: Python
 - 💻 Development focus: full-stack applications
 
