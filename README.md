@@ -48,4 +48,20 @@ I'm **SrPoggers**, a Systems Development Technician and Systems Analysis and Dev
 
 I'm one of the project's three co-authors. It combines news articles with official **CGE/SAISP** records through spatial and temporal analysis to map flood-related road disruptions.
 
-**Stack:** Python, HTML, CSS, JavaScript, Leaflet, Git and GitHub.
+| Sources | Analysis | Goal |
+| :--- | :--- | :--- |
+| News and official records | Spatial and temporal matching | Map flood-related road disruptions |
+
+### 🧰 Tech stack
+**Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=181717)
+
+**Mapping & tools**
+
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
