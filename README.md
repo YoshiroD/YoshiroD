@@ -1,3 +1,19 @@
+[Português](#português) · [English](#srpoggers)
+
+## Português
+
+Sou **SrPoggers**, técnico em Desenvolvimento de Sistemas e estudante de Análise e Desenvolvimento de Sistemas, com foco em Python e desenvolvimento full-stack.
+
+### Projeto em destaque
+
+Sou um dos três coautores do **[flood-fusion-sp](https://github.com/yanpefnsc/flood-fusion-sp)**. O projeto combina notícias com registros oficiais do CGE/SAISP, usando análise espacial e temporal para mapear interrupções viárias relacionadas a alagamentos em Itaquera, São Paulo.
+
+### Tecnologias
+
+Python, HTML, CSS, JavaScript, Leaflet, Git e GitHub.
+
+---
+
 ### SrPoggers
 
 Systems Development Technician and Systems Analysis and Development student, focused on Python and full-stack development.
